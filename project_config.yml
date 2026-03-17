@@ -6,5 +6,6 @@ dev:
   llm_endpoint: databricks-llama-4-maverick
   embedding_endpoint: databricks-gte-large-en
   warehouse_id: 13e42cffde9df010
-  # vector_search_endpoint: llmops_course_vs_endpoint
-  # genie_space_id: 01f113061bf41578baff744a41bd9ab0
+
+
+
